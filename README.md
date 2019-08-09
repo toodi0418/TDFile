@@ -7,3 +7,5 @@
 Facebook https://www.facebook.com/profile.php?id=100028157617275  
 Instagram https://www.instagram.com/toodi0418/  
 GitHub https://github.com/toodi0418
+
+建議 PHP7 或更高版本，預設帳號為 adminnn 密碼為 toodigood
