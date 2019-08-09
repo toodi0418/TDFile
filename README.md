@@ -5,5 +5,5 @@
 本專案採用 MIT 授權，可商業化，但請註明我的個人資料，以下資料擇一即可
 
 Facebook https://www.facebook.com/profile.php?id=100028157617275  
-Instagram https://www.instagram.com/toodi0418/
+Instagram https://www.instagram.com/toodi0418/  
 GitHub https://github.com/toodi0418
