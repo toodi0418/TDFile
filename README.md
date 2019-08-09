@@ -9,3 +9,4 @@ Instagram https://www.instagram.com/toodi0418/
 GitHub https://github.com/toodi0418
 
 建議 PHP7 或更高版本，預設帳號為 adminnn 密碼為 toodigood
+所有上傳的檔案均會加密，所以資料很安全滴！
